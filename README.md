@@ -28,11 +28,11 @@
       <br/><br/>
       🔗 <a href="https://github.com/RushbaKhan/LOG-Management-System">View Code</a>
     </td>
-    <td valign="top"><b>🌐 CN HTTP Web Server</b><br/><br/>
+    <td valign="top"><b>🌐 CN HttpHub Web Server</b><br/><br/>
       🛠️ Python, Django, Networking<br/>
       🎯 Custom HTTP request-response server with Django interface
       <br/><br/>
-      🔗 <a href="https://github.com/RushbaKhan/http-web-server-cn">View Code</a>
+      🔗 <a href="https://github.com/RushbaKhan/HttpHub-CN-Project">View Code</a>
     </td>
   </tr>
   <tr>
