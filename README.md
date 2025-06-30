@@ -26,7 +26,7 @@
       🛠️ Django, Python, Bootstrap<br/>
       🎯 Game event logging & management portal for university competitions
       <br/><br/>
-      🔗 <a href="https://github.com/RushbaKhan/log-management-system">View Code</a>
+      🔗 <a href="https://github.com/RushbaKhan/LOG-Management-System">View Code</a>
     </td>
     <td valign="top"><b>🌐 CN HTTP Web Server</b><br/><br/>
       🛠️ Python, Django, Networking<br/>
