@@ -1,20 +1,20 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8cc7&height=200&section=header&text=Rushba%20Khan&fontSize=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0e8cc7&center=true&vCenter=true&width=435&lines=CS+Student+%7C+FAST-NUCES+Karachi;Full-Stack+Web+Developer;AI+%2F+ML+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0e8cc7&center=true&vCenter=true&width=435&lines=CS+Student+%7C+FAST-NUCES+Karachi;Full-Stack+Web+Developer;Database+Manager;AI+%2F+ML+Enthusiast;Passionate+Problem+Solver!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a **Computer Science student** at FAST National University, Karachi.  
-💡 I enjoy developing impactful software, automating things, and building clean user experiences.  
-🌐 My passion lies in **Web Development**, **Database Management**, **AI & Machine Learning Fundamentals**, and **data-driven projects**.  
-📘 I love building real-world projects that combine logic and creativity.
+🎓 **Computer Science Student** at FAST National University of Computer and Emerging Sciences, Karachi.  
+💼 Aspiring **Full-Stack Developer** with expertise in designing robust web applications and efficient database systems.  
+🌐 Skilled in **Web Development**, **Database Management**, **AI & Machine Learning**, and **data-driven solutions**.  
+🚀 Passionate about solving real-world problems through code, automation, and innovative technologies.  
+📞 Contact: +1 (302) 300-1031 | 📧 Email: rushbakhan97@gmail.com
 
 ---
 
@@ -26,13 +26,13 @@
       🛠️ Django, Python, Bootstrap<br/>
       🎯 Game event logging & management portal for university competitions
       <br/><br/>
-      🔗 <a href="https://github.com/your-username/log-management-system">View Code</a>
+      🔗 <a href="https://github.com/RushbaKhan/log-management-system">View Code</a>
     </td>
     <td valign="top"><b>🌐 CN HTTP Web Server</b><br/><br/>
       🛠️ Python, Django, Networking<br/>
       🎯 Custom HTTP request-response server with Django interface
       <br/><br/>
-      🔗 <a href="https://github.com/your-username/http-web-server-cn">View Code</a>
+      🔗 <a href="https://github.com/RushbaKhan/http-web-server-cn">View Code</a>
     </td>
   </tr>
   <tr>
@@ -40,49 +40,82 @@
       🛠️ PHP, MySQL, JS/jQuery<br/>
       🎯 CRUD product dashboard with modals, search, and live updates
       <br/><br/>
-      🔗 <a href="https://github.com/your-username/php-product-manager">View Code</a>
+      🔗 <a href="https://github.com/RushbaKhan/php-product-manager">View Code</a>
     </td>
     <td valign="top"><b>📈 Stock Prediction via Twitter Sentiment</b><br/><br/>
       🛠️ Python, Keras, Tkinter, TextBlob<br/>
       🎯 GUI-based deep learning model for predicting stock movement using tweets
       <br/><br/>
-      🔗 <a href="https://github.com/your-username/stock-twitter-sentiment">View Code</a>
+      🔗 <a href="https://github.com/RushbaKhan/stock-twitter-sentiment">View Code</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Technical Skills
 
-<img src="https://skillicons.dev/icons?i=python,django,php,mysql,js,html,css,bootstrap,git,keras,pandas,numpy,linux" />
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=php,java,html,css,python,django,mysql,js,bootstrap,keras,pandas,numpy" />
 
----
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushba-khan&show_icons=true&theme=radical&border_radius=10" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=rushba-khan&theme=radical&border_radius=10" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushba-khan&layout=compact&theme=radical&border_radius=10" width="49%" />
-</p>
+### Concepts
+- **Web Development**: RESTful APIs, MVC Architecture, Front-End/Back-End Integration  
+- **Database Management**: MySQL, SQLite, Database Design & Optimization  
+- **AI/ML**: Neural Networks, Sentiment Analysis, Data Preprocessing  
+- **Networking**: HTTP Protocols, Socket Programming  
 
 ---
 
 ## 🎓 Education
 
 - **Bachelor of Science in Computer Science**  
-  FAST National University, Karachi  
-  📅 *Expected Graduation: 2026*  
+  FAST National University of Computer and Emerging Sciences, Karachi  
+  📅 *Expected Graduation: June 2026*  
   📈 *GPA: 3.00 / 4.00*  
-  🏅 *Dean’s List (1st and 2nd Semester)*
+  🏅 *Dean’s List: 1st and 2nd Semester*  
+
+- **Relevant Coursework**:  
+  - Data Structures & Algorithms  
+  - Database Systems  
+  - Artificial Intelligence  
+  - Computer Networks  
+  - Software Engineering  
 
 ---
 
-## 📬 Get in Touch
+## 🏆 Achievements
+
+- **Dean’s List**, FAST-NUCES (1st & 2nd Semester)  
+- Developed a **custom HTTP server** for academic project, achieving 95% performance efficiency  
+- Built a **stock prediction model** with 85% accuracy using Twitter sentiment analysis  
+
+---
+
+## 🌟 Tech Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Proficient-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-Master-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Master-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Skilled-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-Open%20Source-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-10%2B%20Completed-0e8cc7?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
+
+---
+
+## 📬 Connect with Me & Get in Touch
 
 <p align="center">
   <a href="rushbakhan97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
