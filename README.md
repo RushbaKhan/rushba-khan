@@ -13,7 +13,7 @@
 
 🎓 I'm a **Computer Science student** at FAST National University, Karachi.  
 💡 I enjoy developing impactful software, automating things, and building clean user experiences.  
-🌐 My passion lies in **web development**, **machine learning fundamentals**, and **data-driven projects**.  
+🌐 My passion lies in **Web Development**, **Database Management**, **AI & Machine Learning Fundamentals**, and **data-driven projects**.  
 📘 I love building real-world projects that combine logic and creativity.
 
 ---
@@ -77,15 +77,15 @@
 - **Bachelor of Science in Computer Science**  
   FAST National University, Karachi  
   📅 *Expected Graduation: 2026*  
-  📈 *GPA: 3.38 / 4.00*  
-  🏅 *Dean’s List (4th & 5th Semester)*
+  📈 *GPA: 3.00 / 4.00*  
+  🏅 *Dean’s List (1st and 2nd Semester)*
 
 ---
 
 ## 📬 Get in Touch
 
 <p align="center">
-  <a href="mailto:rushbakhan97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="rushbakhan97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rushba-khan-b069b927a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/RushbaKhan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
