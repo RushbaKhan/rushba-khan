@@ -14,7 +14,7 @@
 💼 Aspiring **Full-Stack Developer** with expertise in designing robust web applications and efficient database systems.  
 🌐 Skilled in **Web Development**, **Database Management**, **AI & Machine Learning**, and **data-driven solutions**.  
 🚀 Passionate about solving real-world problems through code, automation, and innovative technologies.  
-📞 Contact: +1 (302) 300-1031 | 📧 Email: rushbakhan97@gmail.com
+📞 Contact: +92 308 301 0331 | 📧 Email: rushbakhan97@gmail.com
 
 ---
 
